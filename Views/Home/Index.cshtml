@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    <div class="content-wrapper">
+        <div>
+            <h1 class="display-4">Temperature Check</h1>
+            <p>Simple application to check your temperature. Bums up.</p>
+            <form id="tempForm" name="tempForm" action="#">
+                <div class="input-value">
+                    <label>
+                        Temperature:<br />
+                        <input id="temperature" type="number" name="temperature" />
+                    </label>
+                    <div id="response" hidden>
+                        <label>
+                            You have:
+                            <br />
+                            <input type="text" />
+                        </label>
+                    </div>
+                </div>
+                <div class="scale">
+                    Select scale:
+                    <br />
+                    <label>
+                        <input type="radio" name="scale" value="celsius" checked /> Celsius
+                    </label>
+                    <br />
+                    <label>
+                        <input type="radio" name="scale" value="fahrenheit" /> Fahrenheit
+                    </label>
+                </div>
+                <input type="submit" name="submit-button" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>

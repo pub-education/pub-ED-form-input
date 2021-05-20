@@ -1,0 +1,37 @@
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.exe
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.deps.json
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.runtimeconfig.json
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.runtimeconfig.dev.json
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.dll
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.pdb
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.Views.dll
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\Forms and Inputs.Views.pdb
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.AssemblyInfoInputs.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.AssemblyInfo.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.csproj.CoreCompileInputs.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.MvcApplicationPartsAssemblyInfo.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.RazorAssemblyInfo.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.RazorAssemblyInfo.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\staticwebassets\Forms and Inputs.StaticWebAssets.Manifest.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\staticwebassets\Forms and Inputs.StaticWebAssets.xml
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\scopedcss\bundle\Forms and Inputs.styles.css
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.TagHelpers.input.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.TagHelpers.output.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.RazorCoreGenerate.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.RazorTargetAssemblyInfo.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.RazorTargetAssemblyInfo.cs
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.Views.pdb
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.dll
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.pdb
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.genruntimeconfig.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.csproj.CopyComplete
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.csprojAssemblyReference.cache
