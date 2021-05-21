@@ -35,3 +35,4 @@ F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Deb
 F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.genruntimeconfig.cache
 F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.csproj.CopyComplete
 F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\obj\Debug\netcoreapp3.1\Forms and Inputs.csprojAssemblyReference.cache
+F:\Education\Lexicon\Programmering .NET\03 Backend\Code\Forms and Inputs\bin\Debug\netcoreapp3.1\web.config
