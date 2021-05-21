@@ -9,20 +9,13 @@ namespace Forms_and_Inputs.Controllers
 {
     public class FeverCheckController : Controller
     {
-        public IActionResult Calculate()
+        public IActionResult Evaluate(double temp, string scale)
         {
-            double x = Convert.ToDouble(Request.Query["temp"]);
-            string scale = Request.Query["scale"];
-            Console.WriteLine("scale: " + scale + ", tmp: " + x.ToString());
-            return Content(FeverModel.FeverCheck(x, scale));
-        }
-    }
+            ViewBag.temperature = temp.ToString();
+            ViewBag.scale = scale;
+            ViewBag.result = FeverModel.FeverCheck(temp, scale);
 
-    public class Testing : IActionResult
-    {
-        Task IActionResult.ExecuteResultAsync(ActionContext context)
-        {
-            throw new NotImplementedException();
+            return View();
         }
     }
 }

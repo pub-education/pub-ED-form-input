@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+
+    <div class="content-wrapper">
+        <div>
+            <h1 class="display-4">Temperature Check</h1>
+            <p>Simple application to check your temperature. Bums up.</p>
+            <form id="tempForm" name="tempForm" action="/FeverCheck/Evaluate" method="get">
+                <div class="input-value">
+                    <label>
+                        Temperature:<br />
+                        <input id="temperature" type="number" step="0.1" name="temp" value="@ViewBag.temperature" />
+                    </label>
+                    <div id="response">
+                        <label>
+                            You have:
+                            <br />
+                            @if (ViewBag.result == "You have fever.")
+                            {
+                                <input type="text" style="color:darkred;background-color:rgb(255,170,170);" name="condition" value="@ViewBag.result" />
+                            }
+
+                            else if (ViewBag.result == "You have hypothermia.")
+                            {
+                                <input type="text" style="color: navy; background-color: lightblue;" name="condition" value="@ViewBag.result" />
+                            }
+                            else
+                            {
+                                <input type="text" name="condition" value="@ViewBag.result" />
+                            }
+                        </label>
+                    </div>
+                </div>
+                <div class="scale">
+                    Select scale:
+                    <br />
+                    @if (ViewBag.scale == "celsius")
+                    {
+                        <label>
+                            <input type="radio" name="scale" value="celsius" checked /> Celsius
+                        </label>
+                        <br />
+                        <label>
+                            <input type="radio" name="scale" value="fahrenheit" /> Fahrenheit
+                        </label>
+                    }
+                    else
+                    {
+                        <label>
+                            <input type="radio" name="scale" value="celsius" /> Celsius
+                        </label>
+                        <br />
+                        <label>
+                            <input type="radio" name="scale" value="fahrenheit" checked /> Fahrenheit
+                        </label>
+                    }
+                </div>
+                <input type="submit" name="submit-button" value="Submit" />
+            </form>
+        </div>
+    </div>
+</div>

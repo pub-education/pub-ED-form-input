@@ -49,10 +49,9 @@ namespace Forms_and_Inputs
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
-                    name: "FeverCheck",
-                    pattern: "/FeverCheck/*data",
-                    defaults: new { controller = "FeverCheck", action = "Calculate" });
-                    
+                    name: "default",
+                    pattern: "/FeverCheck/Evaluate/*data");
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

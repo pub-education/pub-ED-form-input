@@ -8,11 +8,11 @@
         <div>
             <h1 class="display-4">Temperature Check</h1>
             <p>Simple application to check your temperature. Bums up.</p>
-            <form id="tempForm" name="tempForm" action="#">
+            <form id="tempForm" name="tempForm" action="/FeverCheck/Evaluate" method="get">
                 <div class="input-value">
                     <label>
                         Temperature:<br />
-                        <input id="temperature" type="number" name="temperature" />
+                        <input id="temperature" type="number" step="0.1" name="temp" />
                     </label>
                     <div id="response" hidden>
                         <label>
