@@ -8,6 +8,7 @@
 document.addEventListener("click", (event) => {
     const elem = document.getElementById("temperature");
     let ret = "", val = Number(elem.value);
+    
     if (event.target.value == "fahrenheit") {
 
         ret = roundFloat((val * 1.8 + 32), 1).toString();
@@ -15,11 +16,15 @@ document.addEventListener("click", (event) => {
     else if (event.target.value == "celsius") {
         ret = roundFloat(((val - 32) / 1.8), 1).toString();
     }
-    else if (event.target.value == "Submit") {
-        checkTemp(event, val);
+    else {
         ret = val;
     }
+    /*
+    alert(`Counter: ${Current["counter"]} | target: ${event.target.value} | value: ${val} | return: ${ret}`);
+    Current["counter"]++; 
+    */   // set Current["counter"] in _Layout.cshtml
     elem.value = ret;
+    
 })
 
 const roundFloat = (x, dec = 1) => {
